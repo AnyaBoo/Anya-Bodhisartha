@@ -1,10 +1,12 @@
 ## About Me
-![ALori1](https://github.com/AnyaBoo/Anya-Bodhisartha/assets/103296349/f57723a0-d026-4c6a-b15f-40f9199d98ce)
+#### Hi! My name is Anya :)
+![ALori1 small](https://github.com/AnyaBoo/Anya-Bodhisartha/assets/103296349/b1754fe9-848c-41f3-9997-d6c0c388509e)
+
 
 ### Name
 Anya Bodhisartha
 ### DOB
-1998-11-05
+November 5th
 ### Zodiac Sign
 Scorpio
 ### MBTI
@@ -12,9 +14,9 @@ INFP
 
 ### Hobbies 
 - Gaming (RPG, MMORPG, Turn-Based Combat, Graphic Novel)
-- Reading Novel-Manga
+- Reading Novel-Manga 
 - Writing Novel  
-- Listening to Music 
+- Listening to Music (Mostly Oldies, Baroque) 
 - Photography
 - Drawing
 
