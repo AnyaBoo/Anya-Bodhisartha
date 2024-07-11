@@ -23,8 +23,9 @@ INFP
 ### Skills 
 - Microsoft Office Suite (Word, Excel, Powerpoint)
 - Adobe Creative Suite (Photoshop, Indesign, Lightroom) 
-- Programming Language (Java, Python, C) 
-- VRoid Studio
+- Programming Languages (Python, C#, C, Java)
+- UX/UI Design (Figma, Wordpress)
+- 2D/3D Modeling (VRoid Studio, Live2D)
 - Photography 
 - Video Editing
 
